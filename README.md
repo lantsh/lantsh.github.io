@@ -1,2 +1,3 @@
-# lantsh.github.io
-blog
+<\html>
+  Welcome to github!
+<\html>
